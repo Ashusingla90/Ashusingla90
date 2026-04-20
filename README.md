@@ -72,7 +72,7 @@
 
 <p align="left"> 
 
-- LinkedIn: https://leetcode.com/u/Ashusingla/<br>
-- LeetCode: https://www.linkedin.com/in/ashusingla90/
+- LeetCode: https://leetcode.com/u/Ashusingla/<br>
+- LinkedIn: https://www.linkedin.com/in/ashusingla90/
 ###
 </p>
